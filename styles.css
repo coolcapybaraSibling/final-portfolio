@@ -98,10 +98,21 @@ hr {
 #project-grid {
   display: grid;
   grid-template-columns: auto auto;
+  gap: 10%;
 }
 
 .section img {
   display: block;
   max-width: 80%;
   margin:auto;
+}
+
+.item {
+  text-align: center;
+}
+
+.item img {
+  display: block;
+  margin:auto;
+  padding: 1rem;
 }
