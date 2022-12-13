@@ -94,3 +94,9 @@ hr {
     max-width: 30%;
     margin:auto;
 }
+
+#desktop {
+    display: block;
+    max-width: 80%;
+    margin:auto;
+}
