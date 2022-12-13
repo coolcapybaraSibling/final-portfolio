@@ -115,17 +115,9 @@ hr {
   text-align: center;
 }
 
-#bottom-link {
-  padding-top: 20px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-
 .item img {
   display: block;
   margin:auto;
-  padding: 1rem;
   max-height: 20vh;
 }
 
@@ -160,4 +152,8 @@ hr {
 
 .centered h2 {
   color: lightgoldenrodyellow;
+}
+
+#grid-img {
+  border: 3px solid #000;
 }
