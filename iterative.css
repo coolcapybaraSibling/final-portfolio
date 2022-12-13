@@ -25,7 +25,6 @@ table {
 }
 
 h1 {
-  text-align: center;
   font-size: 3rem;
 }
 
@@ -38,7 +37,6 @@ h2 {
 p {
   line-height: 150%;
   margin-block-start: 1.4rem;
-  margin-block-end: 1.4rem;
   font-size: 18px;
 }
 
@@ -77,70 +75,4 @@ hr {
 .lofi-frame {
   max-width: 300px;
   padding: 2%;
-}
-
-#low-fi {
-    display: block;
-    max-width: 80%;
-    margin:auto;
-}
-
-#tablet-screen {
-    display: block;
-    max-width: 60%;
-    margin:auto;
-}
-
-#phone-screen {
-    display: block;
-    max-width: 30%;
-    margin:auto;
-}
-
-#project-grid {
-  display: grid;
-  grid-template-columns: auto auto;
-  gap: 10%;
-  margin-bottom: 100px;
-}
-
-.section img {
-  display: block;
-  max-width: 80%;
-  margin:auto;
-}
-
-.item {
-  position: relative;
-  text-align: center;
-}
-
-#bottom-link {
-  padding-top: 20px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-
-.item img {
-  display: block;
-  margin:auto;
-  padding: 1rem;
-  max-height: 20vh;
-}
-
-#description {
-  margin-bottom: 20px;
-}
-
-#capy img {
-  max-width: 60%;
-}
-
-#easter-egg {
-  text-align: center;
-}
-
-#carouselExampleFade img {
-  margin: auto;
 }
